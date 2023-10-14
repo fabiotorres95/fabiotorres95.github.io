@@ -1,9 +1,9 @@
 function Header() {
-    const name = 'mundo'
+  const name = 'Fábio Torres';
 
-    return (
-      <h1>Olá { name }!</h1>
-    );
+  return (
+    <h1>{ name }</h1>
+  );
 }
 
 export default Header;
