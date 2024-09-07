@@ -1,7 +1,0 @@
-
-{
-    "extends": "@trybe/eslint-config-frontend/typescript",
-    "parserOptions": {
-        "project": "./tsconfig.json"
-    }
-}
